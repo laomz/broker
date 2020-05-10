@@ -1,4 +1,4 @@
-# broker
+# wbroker
 消息分发系统，类似zmq库的pub/sub功能，功能但比zmq的简单，只纯粹做异步消息代理。
 
 
